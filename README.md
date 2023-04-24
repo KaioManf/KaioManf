@@ -2,9 +2,7 @@
 
 - Tenho 18 anos!
 
-- Estou no terceiro semestre do curso Técnico em Informática para Internet da instituição SENAI - Luzerna. Este curso tem como foco a programação web!
-
-- Estou concluindo o ensino médio!
+- Estou no terceiro (e último) semestre do curso Técnico em Informática para Internet da instituição SENAI - Luzerna. Este curso tem como foco a programação web!
 
 <br>
 
