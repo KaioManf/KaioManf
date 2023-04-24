@@ -1,16 +1,45 @@
-### Hi there 👋
+## Hi there! I'm Kaio 👋🏻
 
-<!--
-**KaioManf/KaioManf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Tenho 18 anos!
 
-Here are some ideas to get you started:
+- Estou no terceiro semestre do curso Técnico em Informática para Internet da instituição SENAI - Luzerna. Este curso tem como foco a programação web!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou concluindo o ensino médio!
+
+<br>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaio.manfroi/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=whit)](https://twitter.com/littlekaio)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/kaiowxz)
+
+<br>
+
+![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioManf&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioManf&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+## Experience's 👨🏻‍💻
+
+<div style="display: inline_block"><br>
+    <img alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+    <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</div>
+
+<br>
+<br>
+
+## Games xD
+<br>
+<div style="display: inline_block">
+
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/kaiohen/)
+[![RiotGames](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)](https://tracker.gg/valorant/profile/riot/Kaio%20F1%23666/overview)
+
+</div>
