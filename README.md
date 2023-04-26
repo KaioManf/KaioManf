@@ -4,8 +4,6 @@
 
 - Estou no terceiro (e último) semestre do curso Técnico em Informática para Internet da instituição SENAI - Luzerna. Este curso tem como foco a programação web!
 
-- Esino Médio quase completo. :)
-
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaio.manfroi/)
