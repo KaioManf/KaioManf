@@ -14,7 +14,7 @@
 
 ![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioManf&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioManf&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioManf&layout=compact)](https://github.com/KaioManf/github-readme-stats)
 
 <br>
 
