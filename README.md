@@ -38,6 +38,5 @@
 <div style="display: inline_block">
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/kaiohen/)
-[![RiotGames](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)](https://tracker.gg/valorant/profile/riot/Kaio%20F1%23666/overview)
 
 </div>
