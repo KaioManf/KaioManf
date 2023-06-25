@@ -6,12 +6,6 @@
 
 <br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaio.manfroi/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=whit)](https://twitter.com/littlekaio)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/kaiowxz)
-
-<br>
-
 ![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioManf&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioManf&layout=compact)](https://github.com/KaioManf/github-readme-stats)
