@@ -1,6 +1,6 @@
 ## Hi there! I'm Kaio 👋🏻
 
-- Tenho 18 anos!
+- 18 anos!
 
 <br>
 
