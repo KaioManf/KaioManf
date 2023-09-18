@@ -13,7 +13,7 @@
 
 ## About Me
 -> Studying Computer Technician for Internet on Senai Luzerna
-<br>-> I like to play games > (Add me on [Steam](https://steamcommunity.com/id/kaiomanf/)/Riot Games - Kaio F1#666)
+<br>-> I like to play games > (Add me on [Steam](https://steamcommunity.com/id/kaiomanf/))
 
 ## 🚀 Skills
 
